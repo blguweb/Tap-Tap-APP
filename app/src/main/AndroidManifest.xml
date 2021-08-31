@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kieronquinn.app.taptap">
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="net.dinglisch.android.tasker.PERMISSION_RUN_TASKS" />
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" /> <!-- 添加蓝牙需要的权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:name=".TapTapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activities.equipment.sweeper"></activity>
+        <activity android:name=".activities.equipment.audio" />
+        <activity android:name=".activities.equipment.television" />
+        <activity android:name=".activities.equipment.airConditioner" />
+        <activity android:name=".activities.equipment.fan" />
+        <activity android:name=".activities.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.SettingsActivity" />
+        <activity
+            android:name=".activities.WakeUpActivity"
+            android:theme="@style/TransparentActivity" />
+        <activity android:name=".activities.AppPickerActivity" />
+
+        <service
+            android:name=".TapAccessibilityService"
+            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.accessibilityservice"
+                android:resource="@xml/accessibilityservice" />
+        </service>
+
+        <provider
+            android:name=".providers.SharedPrefsProvider"
+            android:authorities="com.kieronquinn.app.taptap.provider.sharedprefs"
+            android:exported="false"
+            android:grantUriPermissions="true" />
+
+        <activity
+            android:name="com.google.android.gms.oss.licenses.OssLicensesMenuActivity"
+            android:theme="@style/AppTheme.ThirdPartyLicences" />
+        <activity
+            android:name="com.google.android.gms.oss.licenses.OssLicensesActivity"
+            android:theme="@style/AppTheme.ThirdPartyLicences" />
+        <activity
+            android:name=".activities.ActivityConfigTaskerEvent"
+            android:exported="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/tasker_config_label">
+            <intent-filter>
+                <action android:name="net.dinglisch.android.tasker.ACTION_EDIT_EVENT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.ReachabilityActivity"
+            android:theme="@style/ReachabilityTheme" />
+    </application>
+
+</manifest>
