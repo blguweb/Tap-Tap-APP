@@ -1,0 +1,518 @@
+[
+    {
+        "group": "androidx.legacy",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.legacy\\legacy-support-v4\\1.0.0\\3e1271b351e1209661b9fd769cd6681a31678fe\\legacy-support-v4-1.0.0.aar",
+        "name": "legacy-support-v4"
+    },
+    {
+        "group": "com.google.android.gms",
+        "version": "17.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-oss-licenses\\17.0.0\\4f7cb3415c922bd9d36563fde52cb0344d8dc68\\play-services-oss-licenses-17.0.0.aar",
+        "name": "play-services-oss-licenses"
+    },
+    {
+        "group": "com.joaomgcd",
+        "version": "0.3.2",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\com.joaomgcd\\taskerpluginlibrary\\0.3.2\\83d575e15fab5708d9a908cd93ca7daa2ef2591f\\taskerpluginlibrary-0.3.2.aar",
+        "name": "taskerpluginlibrary"
+    },
+    {
+        "group": "androidx.localbroadcastmanager",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.localbroadcastmanager\\localbroadcastmanager\\1.0.0\\2734f31c8321e83ce6b60570d14777fc33cc2ece\\localbroadcastmanager-1.0.0.aar",
+        "name": "localbroadcastmanager"
+    },
+    {
+        "group": "androidx.viewpager2",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.viewpager2\\viewpager2\\1.0.0\\91c378a09ddff66e1bb73e90edeac53487d2832b\\viewpager2-1.0.0.aar",
+        "name": "viewpager2"
+    },
+    {
+        "group": "androidx.fragment",
+        "version": "1.3.0-alpha06",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.fragment\\fragment\\1.3.0-alpha06\\fe23a14bc6f293124c1adfe283b395189c098e93\\fragment-1.3.0-alpha06.aar",
+        "name": "fragment"
+    },
+    {
+        "group": "androidx.lifecycle",
+        "version": "2.3.0-alpha04",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-livedata-core\\2.3.0-alpha04\\f7a68f1657ca35a12ddb6b23b77cc49e3eba5607\\lifecycle-livedata-core-2.3.0-alpha04.aar",
+        "name": "lifecycle-livedata-core"
+    },
+    {
+        "group": "androidx.navigation",
+        "version": "2.3.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.navigation\\navigation-runtime-ktx\\2.3.0\\f19bb01e6c1891d7995014319a6311f684d3cd24\\navigation-runtime-ktx-2.3.0.aar",
+        "name": "navigation-runtime-ktx"
+    },
+    {
+        "group": "dev.chrisbanes",
+        "version": "0.3.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\dev.chrisbanes\\insetter-ktx\\0.3.0\\ff6e6637b0701209fd1ec5c746e3ad870d7ae428\\insetter-ktx-0.3.0.aar",
+        "name": "insetter-ktx"
+    },
+    {
+        "group": "com.google.android.gms",
+        "version": "17.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-base\\17.0.0\\7fe5a19c8a10b304800a0dac51ffd7ae0acc0648\\play-services-base-17.0.0.aar",
+        "name": "play-services-base"
+    },
+    {
+        "group": "androidx.arch.core",
+        "version": "2.1.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.arch.core\\core-common\\2.1.0\\b3152fc64428c9354344bd89848ecddc09b6f07e\\core-common-2.1.0.jar",
+        "name": "core-common"
+    },
+    {
+        "group": "androidx.navigation",
+        "version": "2.3.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.navigation\\navigation-ui-ktx\\2.3.0\\ae6bff1399d2407db068de0c5b7901978e2ca9f0\\navigation-ui-ktx-2.3.0.aar",
+        "name": "navigation-ui-ktx"
+    },
+    {
+        "group": "androidx.media",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.media\\media\\1.0.0\\7f92bbaf670497a9a1105124122fb20cee61e58c\\media-1.0.0.aar",
+        "name": "media"
+    },
+    {
+        "group": "org.jetbrains.kotlin",
+        "version": "1.3.72",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib\\1.3.72\\8032138f12c0180bc4e51fe139d4c52b46db6109\\kotlin-stdlib-1.3.72.jar",
+        "name": "kotlin-stdlib"
+    },
+    {
+        "group": "androidx.lifecycle",
+        "version": "2.3.0-alpha04",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-runtime\\2.3.0-alpha04\\4c4da43a148be82d6f5fe26c63a621966b6614e5\\lifecycle-runtime-2.3.0-alpha04.aar",
+        "name": "lifecycle-runtime"
+    },
+    {
+        "group": "androidx.documentfile",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.documentfile\\documentfile\\1.0.0\\66104345c90cd8c2fd5ad2d3aad692b280e10c32\\documentfile-1.0.0.aar",
+        "name": "documentfile"
+    },
+    {
+        "group": "com.google.android.gms",
+        "version": "17.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-basement\\17.0.0\\f94e0b893e0d5d2a922577986c8b2a31fd79f634\\play-services-basement-17.0.0.aar",
+        "name": "play-services-basement"
+    },
+    {
+        "group": "androidx.browser",
+        "version": "1.2.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.browser\\browser\\1.2.0\\6522bfb83be3982a53a80d847d3f831b0065725f\\browser-1.2.0.aar",
+        "name": "browser"
+    },
+    {
+        "group": "androidx.lifecycle",
+        "version": "2.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-livedata\\2.0.0\\c17007cd0b21d6401910b0becdd16c438c68a9af\\lifecycle-livedata-2.0.0.aar",
+        "name": "lifecycle-livedata"
+    },
+    {
+        "group": "androidx.vectordrawable",
+        "version": "1.1.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.vectordrawable\\vectordrawable-animated\\1.1.0\\fcda1161354501471c30a4e077af6b5c4d4eddc6\\vectordrawable-animated-1.1.0.aar",
+        "name": "vectordrawable-animated"
+    },
+    {
+        "group": "androidx.viewpager",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.viewpager\\viewpager\\1.0.0\\1f90e13820f96c2fb868f9674079a551678d68b2\\viewpager-1.0.0.aar",
+        "name": "viewpager"
+    },
+    {
+        "group": "org.jetbrains.kotlinx",
+        "version": "1.3.4",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-android\\1.3.4\\93dc6aca51305c1b58ccf5a6811665ed58f48ff1\\kotlinx-coroutines-android-1.3.4.jar",
+        "name": "kotlinx-coroutines-android"
+    },
+    {
+        "group": "androidx.navigation",
+        "version": "2.3.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.navigation\\navigation-fragment\\2.3.0\\cecad104ae2bdf2f5d9e0dee124bce7f695ffac6\\navigation-fragment-2.3.0.aar",
+        "name": "navigation-fragment"
+    },
+    {
+        "group": "dev.chrisbanes",
+        "version": "0.3.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\dev.chrisbanes\\insetter\\0.3.0\\af46ccdf8f386386e471a6b0786a2999467e50d7\\insetter-0.3.0.aar",
+        "name": "insetter"
+    },
+    {
+        "group": "androidx.preference",
+        "version": "1.1.1",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.preference\\preference\\1.1.1\\5dd0daf3840a31bad54bd25a69fffdce9b542a8a\\preference-1.1.1.aar",
+        "name": "preference"
+    },
+    {
+        "group": "androidx.versionedparcelable",
+        "version": "1.1.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.versionedparcelable\\versionedparcelable\\1.1.0\\91acce73e00a17b524f6697f6c3893efb8ea349f\\versionedparcelable-1.1.0.aar",
+        "name": "versionedparcelable"
+    },
+    {
+        "group": "androidx.lifecycle",
+        "version": "2.3.0-alpha04",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-viewmodel\\2.3.0-alpha04\\44c7837192c200d16851ea82380a339e18b39699\\lifecycle-viewmodel-2.3.0-alpha04.aar",
+        "name": "lifecycle-viewmodel"
+    },
+    {
+        "group": "com.squareup.picasso",
+        "version": "2.71828",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\com.squareup.picasso\\picasso\\2.71828\\2bd10d289c94265b24e39e7d03762cef5eb445bc\\picasso-2.71828.aar",
+        "name": "picasso"
+    },
+    {
+        "group": "com.google.guava",
+        "version": "1.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\com.google.guava\\listenablefuture\\1.0\\c949a840a6acbc5268d088e47b04177bf90b3cad\\listenablefuture-1.0.jar",
+        "name": "listenablefuture"
+    },
+    {
+        "group": "androidx.activity",
+        "version": "1.2.0-alpha06",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.activity\\activity-ktx\\1.2.0-alpha06\\4d8580828822b55ba5afaff7b4f1bb29bba708e7\\activity-ktx-1.2.0-alpha06.aar",
+        "name": "activity-ktx"
+    },
+    {
+        "group": "com.google.code.gson",
+        "version": "2.8.6",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\com.google.code.gson\\gson\\2.8.6\\9180733b7df8542621dc12e21e87557e8c99b8cb\\gson-2.8.6.jar",
+        "name": "gson"
+    },
+    {
+        "group": "androidx.coordinatorlayout",
+        "version": "1.1.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.coordinatorlayout\\coordinatorlayout\\1.1.0\\8eeb7baf75b9595d017642a460df5af3bb9fa4e1\\coordinatorlayout-1.1.0.aar",
+        "name": "coordinatorlayout"
+    },
+    {
+        "group": "androidx.fragment",
+        "version": "1.3.0-alpha06",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.fragment\\fragment-ktx\\1.3.0-alpha06\\cd406490fcea716724c468ae86c08a5e1e7081c7\\fragment-ktx-1.3.0-alpha06.aar",
+        "name": "fragment-ktx"
+    },
+    {
+        "group": "org.jetbrains.kotlinx",
+        "version": "1.3.4",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-core\\1.3.4\\21598c7ceabbcafb953cd151cd5ad44615a253c0\\kotlinx-coroutines-core-1.3.4.jar",
+        "name": "kotlinx-coroutines-core"
+    },
+    {
+        "group": "androidx.core",
+        "version": "1.3.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.core\\core\\1.3.0\\7b02249f15f9366a6d98dd5d6bf613c34810982e\\core-1.3.0.aar",
+        "name": "core"
+    },
+    {
+        "group": "androidx.lifecycle",
+        "version": "2.3.0-alpha04",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-runtime-ktx\\2.3.0-alpha04\\dc65007c22a8471011a3d72b02d694dcd326cd4a\\lifecycle-runtime-ktx-2.3.0-alpha04.aar",
+        "name": "lifecycle-runtime-ktx"
+    },
+    {
+        "group": "com.google.android.gms",
+        "version": "17.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\com.google.android.gms\\play-services-tasks\\17.0.0\\18299a334d48bc5abfe3c9446c2a9e1a3b3f38e1\\play-services-tasks-17.0.0.aar",
+        "name": "play-services-tasks"
+    },
+    {
+        "group": "androidx.recyclerview",
+        "version": "1.1.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.recyclerview\\recyclerview\\1.1.0\\8b4f97752ddcbc712af46d208aebd46585cde63b\\recyclerview-1.1.0.aar",
+        "name": "recyclerview"
+    },
+    {
+        "group": "androidx.savedstate",
+        "version": "1.1.0-alpha01",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.savedstate\\savedstate\\1.1.0-alpha01\\67186d9e93fcd2dfdce6e5e10fb501f62cf4f19b\\savedstate-1.1.0-alpha01.aar",
+        "name": "savedstate"
+    },
+    {
+        "group": "androidx.vectordrawable",
+        "version": "1.1.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.vectordrawable\\vectordrawable\\1.1.0\\eac7a364fff534035a2a6cb17770a1288315f69f\\vectordrawable-1.1.0.aar",
+        "name": "vectordrawable"
+    },
+    {
+        "group": "com.squareup.okio",
+        "version": "1.14.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\com.squareup.okio\\okio\\1.14.0\\102d7be47241d781ef95f1581d414b0943053130\\okio-1.14.0.jar",
+        "name": "okio"
+    },
+    {
+        "group": "androidx.loader",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.loader\\loader\\1.0.0\\8af8b6cec0da85c207d03e15840e0722cbc71e70\\loader-1.0.0.aar",
+        "name": "loader"
+    },
+    {
+        "group": "androidx.appcompat",
+        "version": "1.1.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.appcompat\\appcompat-resources\\1.1.0\\a573b2ab146d686244721ef1038d08043f18c67f\\appcompat-resources-1.1.0.aar",
+        "name": "appcompat-resources"
+    },
+    {
+        "group": "androidx.collection",
+        "version": "1.1.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.collection\\collection-ktx\\1.1.0\\f807b2f366f7b75142a67d2f3c10031065b5168\\collection-ktx-1.1.0.jar",
+        "name": "collection-ktx"
+    },
+    {
+        "group": "androidx.cursoradapter",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.cursoradapter\\cursoradapter\\1.0.0\\74014983a86b83cbce534dec4e7aa9312f5f5d82\\cursoradapter-1.0.0.aar",
+        "name": "cursoradapter"
+    },
+    {
+        "group": "androidx.lifecycle",
+        "version": "2.2.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-common-java8\\2.2.0\\cd3478503da69b1a7e0319bd2d1389943db9b364\\lifecycle-common-java8-2.2.0.jar",
+        "name": "lifecycle-common-java8"
+    },
+    {
+        "group": "androidx.constraintlayout",
+        "version": "1.1.3",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.constraintlayout\\constraintlayout\\1.1.3\\2d92d69c428d9d36fd09f5669ec4e60a1e8859a\\constraintlayout-1.1.3.aar",
+        "name": "constraintlayout"
+    },
+    {
+        "group": "androidx.navigation",
+        "version": "2.3.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.navigation\\navigation-fragment-ktx\\2.3.0\\9e0e91461ada5a697974a0195c38a163366ea9c7\\navigation-fragment-ktx-2.3.0.aar",
+        "name": "navigation-fragment-ktx"
+    },
+    {
+        "group": "androidx.appcompat",
+        "version": "1.1.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.appcompat\\appcompat\\1.1.0\\351d3409fe51f3d862bd2b1bcc0f3b6ded29460e\\appcompat-1.1.0.aar",
+        "name": "appcompat"
+    },
+    {
+        "group": "org.tensorflow",
+        "version": "0.0.0-nightly",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\org.tensorflow\\tensorflow-lite\\0.0.0-nightly\\18226549600c4addb2b9eeeb5817a41a084b2092\\tensorflow-lite-0.0.0-nightly.aar",
+        "name": "tensorflow-lite"
+    },
+    {
+        "group": "androidx.lifecycle",
+        "version": "2.3.0-alpha04",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-viewmodel-ktx\\2.3.0-alpha04\\bd56d1635b1bb5a351ed31ddbf755911f1ee26cd\\lifecycle-viewmodel-ktx-2.3.0-alpha04.aar",
+        "name": "lifecycle-viewmodel-ktx"
+    },
+    {
+        "group": "androidx.swiperefreshlayout",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.swiperefreshlayout\\swiperefreshlayout\\1.0.0\\4fd265b80a2b0fbeb062ab2bc4b1487521507762\\swiperefreshlayout-1.0.0.aar",
+        "name": "swiperefreshlayout"
+    },
+    {
+        "group": "androidx.legacy",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.legacy\\legacy-support-core-utils\\1.0.0\\9b9570042115da8629519090dfeb71df75da59fc\\legacy-support-core-utils-1.0.0.aar",
+        "name": "legacy-support-core-utils"
+    },
+    {
+        "group": "androidx.navigation",
+        "version": "2.3.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.navigation\\navigation-ui\\2.3.0\\fa71ba1eb908268e1f1363a0fd7fd58fee7ff3a6\\navigation-ui-2.3.0.aar",
+        "name": "navigation-ui"
+    },
+    {
+        "group": "androidx.navigation",
+        "version": "2.3.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.navigation\\navigation-common-ktx\\2.3.0\\7a18d1153e8c5f3c65bba7d4fae8fb886c0e18b8\\navigation-common-ktx-2.3.0.aar",
+        "name": "navigation-common-ktx"
+    },
+    {
+        "group": "androidx.navigation",
+        "version": "2.3.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.navigation\\navigation-runtime\\2.3.0\\4a7cc171db11d932aa8e36bd698e2eeba71be7c4\\navigation-runtime-2.3.0.aar",
+        "name": "navigation-runtime"
+    },
+    {
+        "group": "androidx.core",
+        "version": "1.3.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.core\\core-ktx\\1.3.0\\d6f42795e3d2b67ec47a3035ebb5695c46320526\\core-ktx-1.3.0.aar",
+        "name": "core-ktx"
+    },
+    {
+        "group": "com.squareup.okhttp3",
+        "version": "3.10.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\com.squareup.okhttp3\\okhttp\\3.10.0\\7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e\\okhttp-3.10.0.jar",
+        "name": "okhttp"
+    },
+    {
+        "group": "androidx.collection",
+        "version": "1.1.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.collection\\collection\\1.1.0\\1f27220b47669781457de0d600849a5de0e89909\\collection-1.1.0.jar",
+        "name": "collection"
+    },
+    {
+        "group": "androidx.exifinterface",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.exifinterface\\exifinterface\\1.0.0\\1ab12ceadd49f94006e1ec0ea5fa51b701169cd5\\exifinterface-1.0.0.aar",
+        "name": "exifinterface"
+    },
+    {
+        "group": "org.jetbrains.kotlin",
+        "version": "1.3.72",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-android-extensions-runtime\\1.3.72\\83423235971335be77d2ea025008bc9959738ffc\\kotlin-android-extensions-runtime-1.3.72.jar",
+        "name": "kotlin-android-extensions-runtime"
+    },
+    {
+        "group": "androidx.cardview",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.cardview\\cardview\\1.0.0\\158dbc2e2bc502815821191b04446b8f663c1874\\cardview-1.0.0.aar",
+        "name": "cardview"
+    },
+    {
+        "group": "androidx.drawerlayout",
+        "version": "1.1.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.drawerlayout\\drawerlayout\\1.1.0\\e5bbe64b2688504bc30418d4056ad0b424133e70\\drawerlayout-1.1.0.aar",
+        "name": "drawerlayout"
+    },
+    {
+        "group": "org.jetbrains.kotlin",
+        "version": "1.3.72",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-common\\1.3.72\\6ca8bee3d88957eaaaef077c41c908c9940492d8\\kotlin-stdlib-common-1.3.72.jar",
+        "name": "kotlin-stdlib-common"
+    },
+    {
+        "group": "androidx.navigation",
+        "version": "2.3.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.navigation\\navigation-common\\2.3.0\\bf918cbb854b3175b234a8fada83efc20a6f6e83\\navigation-common-2.3.0.aar",
+        "name": "navigation-common"
+    },
+    {
+        "group": "androidx.customview",
+        "version": "1.1.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.customview\\customview\\1.1.0\\a030aaf64c5419a89f7d91a33755c4629a43471\\customview-1.1.0.aar",
+        "name": "customview"
+    },
+    {
+        "group": "org.jetbrains",
+        "version": "13.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\org.jetbrains\\annotations\\13.0\\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\\annotations-13.0.jar",
+        "name": "annotations"
+    },
+    {
+        "group": "androidx.constraintlayout",
+        "version": "1.1.3",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.constraintlayout\\constraintlayout-solver\\1.1.3\\54abe9ffb22cc9019b0b6fcc10f185cc4e67b34e\\constraintlayout-solver-1.1.3.jar",
+        "name": "constraintlayout-solver"
+    },
+    {
+        "group": "androidx.legacy",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.legacy\\legacy-support-core-ui\\1.0.0\\61a264f996046e059f889914050fae1e75d3b702\\legacy-support-core-ui-1.0.0.aar",
+        "name": "legacy-support-core-ui"
+    },
+    {
+        "group": "androidx.annotation",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.annotation\\annotation-experimental\\1.0.0\\fe9ba8247a591ebf8e16f0cf80af7a2045c981e0\\annotation-experimental-1.0.0.aar",
+        "name": "annotation-experimental"
+    },
+    {
+        "group": "androidx.lifecycle",
+        "version": "2.3.0-alpha04",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-livedata-core-ktx\\2.3.0-alpha04\\85b220e5d98abf944b618d6d7022c45494105100\\lifecycle-livedata-core-ktx-2.3.0-alpha04.aar",
+        "name": "lifecycle-livedata-core-ktx"
+    },
+    {
+        "group": "androidx.print",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.print\\print\\1.0.0\\7722094652c48ebe27acc94d74a55e759e4635ff\\print-1.0.0.aar",
+        "name": "print"
+    },
+    {
+        "group": "androidx.lifecycle",
+        "version": "2.3.0-alpha04",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-common\\2.3.0-alpha04\\eda523facdc9b2c2b6180b3e78ded7dbd6751147\\lifecycle-common-2.3.0-alpha04.jar",
+        "name": "lifecycle-common"
+    },
+    {
+        "group": "com.github.topjohnwu.libsu",
+        "version": "2.5.1",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\com.github.topjohnwu.libsu\\core\\2.5.1\\13fa3c50fed28e99f25f7d0e9f900bb8ee849b33\\core-2.5.1.aar",
+        "name": "core"
+    },
+    {
+        "group": "androidx.asynclayoutinflater",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.asynclayoutinflater\\asynclayoutinflater\\1.0.0\\5ffa788d19a6863799f25cb50d4fdfb0ec649037\\asynclayoutinflater-1.0.0.aar",
+        "name": "asynclayoutinflater"
+    },
+    {
+        "group": "androidx.transition",
+        "version": "1.3.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.transition\\transition\\1.3.0\\c2b721ff9dfb76d365458504bcf63fb4225801d1\\transition-1.3.0.aar",
+        "name": "transition"
+    },
+    {
+        "group": "androidx.annotation",
+        "version": "1.1.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.annotation\\annotation\\1.1.0\\e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8\\annotation-1.1.0.jar",
+        "name": "annotation"
+    },
+    {
+        "group": "androidx.arch.core",
+        "version": "2.1.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.arch.core\\core-runtime\\2.1.0\\2df0e03029caae7863ccb4825addaadc8ab6780c\\core-runtime-2.1.0.aar",
+        "name": "core-runtime"
+    },
+    {
+        "group": "androidx.activity",
+        "version": "1.2.0-alpha06",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.activity\\activity\\1.2.0-alpha06\\e3542b7b7cdb565150a72ea37ef6734e1427f20e\\activity-1.2.0-alpha06.aar",
+        "name": "activity"
+    },
+    {
+        "group": "androidx.lifecycle",
+        "version": "2.3.0-alpha04",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.lifecycle\\lifecycle-viewmodel-savedstate\\2.3.0-alpha04\\dad7c55ef2ea0c6983affe252b3debacc2768969\\lifecycle-viewmodel-savedstate-2.3.0-alpha04.aar",
+        "name": "lifecycle-viewmodel-savedstate"
+    },
+    {
+        "group": "androidx.interpolator",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.interpolator\\interpolator\\1.0.0\\8a01fa254a23b9388571eb6334b03707c7d122d7\\interpolator-1.0.0.aar",
+        "name": "interpolator"
+    },
+    {
+        "group": "com.google.android.material",
+        "version": "1.2.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\com.google.android.material\\material\\1.2.0\\3616de9b511a911fe2fd712ced289f7fe97de052\\material-1.2.0.aar",
+        "name": "material"
+    },
+    {
+        "group": "androidx.slidingpanelayout",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.slidingpanelayout\\slidingpanelayout\\1.0.0\\37eba9ccbf09b75cc4aa78a5e182d5b8ba79ad6a\\slidingpanelayout-1.0.0.aar",
+        "name": "slidingpanelayout"
+    },
+    {
+        "group": "androidx.transition",
+        "version": "1.2.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.transition\\transition\\1.2.0\\28003577e8b32f5417bfe899bbdc7a333dc81c9f\\transition-1.2.0.aar",
+        "name": "transition"
+    },
+    {
+        "group": "androidx.arch.core",
+        "version": "2.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.arch.core\\core-runtime\\2.0.0\\c5be9edf9ca9135a465d23939f6e7d0e1cf90b41\\core-runtime-2.0.0.aar",
+        "name": "core-runtime"
+    },
+    {
+        "group": "androidx.concurrent",
+        "version": "1.0.0",
+        "fileLocation": "C:\\Users\\kidominox\\.gradle\\wrapper\\dists\\gradle-6.1.1-all\\caches\\modules-2\\files-2.1\\androidx.concurrent\\concurrent-futures\\1.0.0\\c1e77e3ee6f4643b77496a1ddf7a2eef1aefdaa1\\concurrent-futures-1.0.0.jar",
+        "name": "concurrent-futures"
+    }
+]

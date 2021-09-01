@@ -1,0 +1,496 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:2:1-80:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\552364df374e96332f8fbdb3273ef032\navigation-fragment-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.0-alpha06] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\9902f616b20baefb727f105c03803aab\jetified-fragment-ktx-1.3.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\f40c16dfd7cd3469274bca5ea33c1869\navigation-ui-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\49b19e525b2640f72baa4a48b50b64b3\navigation-runtime-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.0-alpha06] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\9e89ff75a1ca4537ea29b5288882a2a0\jetified-activity-ktx-1.2.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\36a420ef131183f9ab6781c31313dfb1\navigation-common-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\7a3c94cafb23f761af01446233f3bb47\jetified-core-ktx-1.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [dev.chrisbanes:insetter-ktx:0.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\3a142df299007eb319e7a0b0c75cfdd1\jetified-insetter-ktx-0.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:2:1-49:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e16278827c6f774d50335c27d956c483\jetified-lifecycle-livedata-core-ktx-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e82b22ccd7269b9615631977825abbb2\jetified-lifecycle-viewmodel-ktx-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\41523929aea1c203037341309882112c\jetified-lifecycle-runtime-ktx-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\83c818a16daad2a27a2327249d1bda9e\navigation-ui-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6d52dd41be0da1df74539297af9160fe\material-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\bc4e2c90cb5ff44e3f26bf88d61d3cad\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\8f81e46f3d9dd0a4b252ac2bb3d9e598\jetified-play-services-oss-licenses-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\aebedbecd3ee669af4c008b3c4dc9bb5\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\41f2d97c0b27d317924f2e48ebe83b6c\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\18aea071983a076223a6ed453d18cb54\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d31a5b1588958eb3697c8fdd75c5cd8e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6aa8c8ad1263b1c6424777d30321958e\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.topjohnwu.libsu:core:2.5.1] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e4125c45f3141e6c53de9adb366eebaf\jetified-core-2.5.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\1634ded704e01377ddbf3cc5b0a716e4\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.browser:browser:1.2.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6450555d8b73f0733d4f002f2e74c068\browser-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\52646b65cdf5e91756c7f8c9eb798ca1\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\c4109b0bf175ce97d38035c9e80e5434\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\36b084ed8fdbb6817a9537fba57c4e3e\navigation-fragment-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\2c54fee6206403c596e9317b9254bc2c\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d6d2b0f2d890adb79b33e2053e79de3f\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d3035ba4b01605ced77abbfd27417d88\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\627b39416b725a583dc5205480468f09\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.0-alpha06] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\55f69a7e3a8c1dfee4d154909eefc28e\fragment-1.3.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\09b050fcf82201d1a0cf5763f5130658\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\7f993c5cf000e7fcd8c67c30d9d4511d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\596d0af2aef2c4d58fa857606f0388d5\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\456db3d5e3ccf90624940ece462336fc\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d52df6074af251a0eecf64153624b5a9\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [dev.chrisbanes:insetter:0.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6f73981c85f91788bdf3b6c4b5007f0f\jetified-insetter-0.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\9c0bb941daedc4c6ea246704e495c1bd\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\b244691cd8175c6915a7ac44eba03ea2\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\8963223d5cc892768d2b19f97b49677c\navigation-runtime-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.0-alpha06] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6ae2e52091d85ce90eca83c8015802a9\jetified-activity-1.2.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\26f5ab69930003efb039186da18a2b49\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\32fc353b1c7804099cd4fbec3a2b6893\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\78dab9062654e08dd7329218807137ce\drawerlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\99a0143fb9b28085abf8bdf146e223b9\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d7ffe9162df496bf8e34ad02164340f4\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e612dd2dda035faf1f944757ba01a498\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\472a9ec7d829c4595623e8b046f742b2\navigation-common-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\1871a60ba9b506e35587e7a52b3a7d9b\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e136b6ecf71b82c0c966eb7ebef30c80\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\ef1d8c86b08f81aad0369fb3f72c00f1\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\bd44cc74717fe47b98bb75c35c1ea6fe\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\07747f2a92010905ccf5a19553431dd6\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\097e2cfec1f3470bed257f438550fe24\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\50a7365e220bacbca98a17daf060d252\jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\b6717674800eed6c3a08c293ce0791d2\lifecycle-viewmodel-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\81ea3fe12e12ba106c9a4ce901e10abb\jetified-savedstate-1.1.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\98563681e58d3c34f4b31b8baef283ec\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\829d21909d50c091150d8e9ad4c8b5da\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\5427561dd6cf390b76a54b6b12697c64\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\234e1c7e174fe3482504584969ff910c\lifecycle-runtime-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e22d88d5b51cd2697931c473301ce0b7\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\ec11c655f4c6a4d1a8bcba40a09dcfd8\lifecycle-livedata-core-2.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\5c340e449d2c5623178e4ca61caab05d\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\0bd2c356fb75e12f06b4127e75652d05\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:2:1-80:12
+		INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:2:1-80:12
+		INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:6:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.CAMERA
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:10:22-74
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:11:22-66
+uses-permission#net.dinglisch.android.tasker.PERMISSION_RUN_TASKS
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:12:5-89
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:12:22-86
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:13:5-95
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:13:22-92
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:15:22-71
+application
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:17:5-78:19
+MERGED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:12:5-47:19
+MERGED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:12:5-47:19
+MERGED from [com.google.android.material:material:1.2.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6d52dd41be0da1df74539297af9160fe\material-1.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6d52dd41be0da1df74539297af9160fe\material-1.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\8f81e46f3d9dd0a4b252ac2bb3d9e598\jetified-play-services-oss-licenses-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\8f81e46f3d9dd0a4b252ac2bb3d9e598\jetified-play-services-oss-licenses-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\41f2d97c0b27d317924f2e48ebe83b6c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\41f2d97c0b27d317924f2e48ebe83b6c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\1634ded704e01377ddbf3cc5b0a716e4\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\1634ded704e01377ddbf3cc5b0a716e4\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\52646b65cdf5e91756c7f8c9eb798ca1\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\52646b65cdf5e91756c7f8c9eb798ca1\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d6d2b0f2d890adb79b33e2053e79de3f\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d6d2b0f2d890adb79b33e2053e79de3f\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d3035ba4b01605ced77abbfd27417d88\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d3035ba4b01605ced77abbfd27417d88\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\627b39416b725a583dc5205480468f09\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\627b39416b725a583dc5205480468f09\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\1871a60ba9b506e35587e7a52b3a7d9b\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\1871a60ba9b506e35587e7a52b3a7d9b\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\097e2cfec1f3470bed257f438550fe24\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\097e2cfec1f3470bed257f438550fe24\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\1871a60ba9b506e35587e7a52b3a7d9b\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:18:9-42
+activity#com.kieronquinn.app.taptap.activities.equipment.sweeper
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:24:9-75
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:24:19-63
+activity#com.kieronquinn.app.taptap.activities.equipment.audio
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:25:9-64
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:25:19-61
+activity#com.kieronquinn.app.taptap.activities.equipment.television
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:26:9-69
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:26:19-66
+activity#com.kieronquinn.app.taptap.activities.equipment.airConditioner
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:27:9-73
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:27:19-70
+activity#com.kieronquinn.app.taptap.activities.equipment.fan
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:28:9-62
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:28:19-59
+activity#com.kieronquinn.app.taptap.activities.MainActivity
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:29:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:33:27-74
+activity#com.kieronquinn.app.taptap.activities.SettingsActivity
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:36:9-65
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:36:19-62
+activity#com.kieronquinn.app.taptap.activities.WakeUpActivity
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:37:9-39:58
+	android:theme
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:39:13-55
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:38:13-54
+activity#com.kieronquinn.app.taptap.activities.AppPickerActivity
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:40:9-66
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:40:19-63
+service#com.kieronquinn.app.taptap.TapAccessibilityService
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:42:9-52:19
+	android:permission
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:44:13-79
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:43:13-52
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:45:13-47:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:46:17-92
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:46:25-89
+meta-data#android.accessibilityservice
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:49:13-51:64
+	android:resource
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:51:17-61
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:50:17-60
+provider#com.kieronquinn.app.taptap.providers.SharedPrefsProvider
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:54:9-58:50
+	android:grantUriPermissions
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:58:13-47
+	android:authorities
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:56:13-82
+	android:exported
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:55:13-58
+activity#com.google.android.gms.oss.licenses.OssLicensesMenuActivity
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:60:9-62:66
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\8f81e46f3d9dd0a4b252ac2bb3d9e598\jetified-play-services-oss-licenses-17.0.0\AndroidManifest.xml:23:9-25:57
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\8f81e46f3d9dd0a4b252ac2bb3d9e598\jetified-play-services-oss-licenses-17.0.0\AndroidManifest.xml:23:9-25:57
+	android:label
+		ADDED from [com.google.android.gms:play-services-oss-licenses:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\8f81e46f3d9dd0a4b252ac2bb3d9e598\jetified-play-services-oss-licenses-17.0.0\AndroidManifest.xml:25:13-54
+	android:theme
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:62:13-63
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:61:13-87
+activity#com.google.android.gms.oss.licenses.OssLicensesActivity
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:63:9-65:66
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\8f81e46f3d9dd0a4b252ac2bb3d9e598\jetified-play-services-oss-licenses-17.0.0\AndroidManifest.xml:26:9-92
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\8f81e46f3d9dd0a4b252ac2bb3d9e598\jetified-play-services-oss-licenses-17.0.0\AndroidManifest.xml:26:9-92
+	android:theme
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:65:13-63
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:64:13-83
+activity#com.kieronquinn.app.taptap.activities.ActivityConfigTaskerEvent
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:66:9-74:20
+	android:label
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:70:13-56
+	android:exported
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:68:13-36
+	android:icon
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:69:13-47
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:67:13-65
+intent-filter#action:name:net.dinglisch.android.tasker.ACTION_EDIT_EVENT
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:71:13-73:29
+action#net.dinglisch.android.tasker.ACTION_EDIT_EVENT
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:72:17-89
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:72:25-86
+activity#com.kieronquinn.app.taptap.activities.ReachabilityActivity
+ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:75:9-77:56
+	android:theme
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:77:13-53
+	android:name
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml:76:13-60
+uses-sdk
+INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\552364df374e96332f8fbdb3273ef032\navigation-fragment-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\552364df374e96332f8fbdb3273ef032\navigation-fragment-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.0-alpha06] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\9902f616b20baefb727f105c03803aab\jetified-fragment-ktx-1.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.0-alpha06] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\9902f616b20baefb727f105c03803aab\jetified-fragment-ktx-1.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\f40c16dfd7cd3469274bca5ea33c1869\navigation-ui-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\f40c16dfd7cd3469274bca5ea33c1869\navigation-ui-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\49b19e525b2640f72baa4a48b50b64b3\navigation-runtime-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\49b19e525b2640f72baa4a48b50b64b3\navigation-runtime-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.0-alpha06] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\9e89ff75a1ca4537ea29b5288882a2a0\jetified-activity-ktx-1.2.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.0-alpha06] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\9e89ff75a1ca4537ea29b5288882a2a0\jetified-activity-ktx-1.2.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\36a420ef131183f9ab6781c31313dfb1\navigation-common-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\36a420ef131183f9ab6781c31313dfb1\navigation-common-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\7a3c94cafb23f761af01446233f3bb47\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\7a3c94cafb23f761af01446233f3bb47\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [dev.chrisbanes:insetter-ktx:0.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\3a142df299007eb319e7a0b0c75cfdd1\jetified-insetter-ktx-0.3.0\AndroidManifest.xml:20:5-44
+MERGED from [dev.chrisbanes:insetter-ktx:0.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\3a142df299007eb319e7a0b0c75cfdd1\jetified-insetter-ktx-0.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e16278827c6f774d50335c27d956c483\jetified-lifecycle-livedata-core-ktx-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e16278827c6f774d50335c27d956c483\jetified-lifecycle-livedata-core-ktx-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e82b22ccd7269b9615631977825abbb2\jetified-lifecycle-viewmodel-ktx-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e82b22ccd7269b9615631977825abbb2\jetified-lifecycle-viewmodel-ktx-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\41523929aea1c203037341309882112c\jetified-lifecycle-runtime-ktx-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\41523929aea1c203037341309882112c\jetified-lifecycle-runtime-ktx-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\83c818a16daad2a27a2327249d1bda9e\navigation-ui-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\83c818a16daad2a27a2327249d1bda9e\navigation-ui-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6d52dd41be0da1df74539297af9160fe\material-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6d52dd41be0da1df74539297af9160fe\material-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\bc4e2c90cb5ff44e3f26bf88d61d3cad\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\bc4e2c90cb5ff44e3f26bf88d61d3cad\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\8f81e46f3d9dd0a4b252ac2bb3d9e598\jetified-play-services-oss-licenses-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-oss-licenses:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\8f81e46f3d9dd0a4b252ac2bb3d9e598\jetified-play-services-oss-licenses-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\aebedbecd3ee669af4c008b3c4dc9bb5\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\aebedbecd3ee669af4c008b3c4dc9bb5\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\41f2d97c0b27d317924f2e48ebe83b6c\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\41f2d97c0b27d317924f2e48ebe83b6c\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\18aea071983a076223a6ed453d18cb54\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\18aea071983a076223a6ed453d18cb54\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d31a5b1588958eb3697c8fdd75c5cd8e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d31a5b1588958eb3697c8fdd75c5cd8e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6aa8c8ad1263b1c6424777d30321958e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6aa8c8ad1263b1c6424777d30321958e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.topjohnwu.libsu:core:2.5.1] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e4125c45f3141e6c53de9adb366eebaf\jetified-core-2.5.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.topjohnwu.libsu:core:2.5.1] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e4125c45f3141e6c53de9adb366eebaf\jetified-core-2.5.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\1634ded704e01377ddbf3cc5b0a716e4\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\1634ded704e01377ddbf3cc5b0a716e4\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.2.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6450555d8b73f0733d4f002f2e74c068\browser-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6450555d8b73f0733d4f002f2e74c068\browser-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\52646b65cdf5e91756c7f8c9eb798ca1\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\52646b65cdf5e91756c7f8c9eb798ca1\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\c4109b0bf175ce97d38035c9e80e5434\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\c4109b0bf175ce97d38035c9e80e5434\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\36b084ed8fdbb6817a9537fba57c4e3e\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\36b084ed8fdbb6817a9537fba57c4e3e\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\2c54fee6206403c596e9317b9254bc2c\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\2c54fee6206403c596e9317b9254bc2c\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d6d2b0f2d890adb79b33e2053e79de3f\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d6d2b0f2d890adb79b33e2053e79de3f\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d3035ba4b01605ced77abbfd27417d88\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d3035ba4b01605ced77abbfd27417d88\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\627b39416b725a583dc5205480468f09\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\627b39416b725a583dc5205480468f09\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.0-alpha06] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\55f69a7e3a8c1dfee4d154909eefc28e\fragment-1.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0-alpha06] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\55f69a7e3a8c1dfee4d154909eefc28e\fragment-1.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\09b050fcf82201d1a0cf5763f5130658\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\09b050fcf82201d1a0cf5763f5130658\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\7f993c5cf000e7fcd8c67c30d9d4511d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\7f993c5cf000e7fcd8c67c30d9d4511d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\596d0af2aef2c4d58fa857606f0388d5\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\596d0af2aef2c4d58fa857606f0388d5\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\456db3d5e3ccf90624940ece462336fc\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\456db3d5e3ccf90624940ece462336fc\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d52df6074af251a0eecf64153624b5a9\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d52df6074af251a0eecf64153624b5a9\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [dev.chrisbanes:insetter:0.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6f73981c85f91788bdf3b6c4b5007f0f\jetified-insetter-0.3.0\AndroidManifest.xml:20:5-44
+MERGED from [dev.chrisbanes:insetter:0.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6f73981c85f91788bdf3b6c4b5007f0f\jetified-insetter-0.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\9c0bb941daedc4c6ea246704e495c1bd\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\9c0bb941daedc4c6ea246704e495c1bd\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\b244691cd8175c6915a7ac44eba03ea2\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\b244691cd8175c6915a7ac44eba03ea2\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\8963223d5cc892768d2b19f97b49677c\navigation-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\8963223d5cc892768d2b19f97b49677c\navigation-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-alpha06] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6ae2e52091d85ce90eca83c8015802a9\jetified-activity-1.2.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-alpha06] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\6ae2e52091d85ce90eca83c8015802a9\jetified-activity-1.2.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\26f5ab69930003efb039186da18a2b49\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\26f5ab69930003efb039186da18a2b49\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\32fc353b1c7804099cd4fbec3a2b6893\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\32fc353b1c7804099cd4fbec3a2b6893\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\78dab9062654e08dd7329218807137ce\drawerlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\78dab9062654e08dd7329218807137ce\drawerlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\99a0143fb9b28085abf8bdf146e223b9\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\99a0143fb9b28085abf8bdf146e223b9\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d7ffe9162df496bf8e34ad02164340f4\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d7ffe9162df496bf8e34ad02164340f4\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e612dd2dda035faf1f944757ba01a498\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e612dd2dda035faf1f944757ba01a498\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\472a9ec7d829c4595623e8b046f742b2\navigation-common-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\472a9ec7d829c4595623e8b046f742b2\navigation-common-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\1871a60ba9b506e35587e7a52b3a7d9b\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\1871a60ba9b506e35587e7a52b3a7d9b\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e136b6ecf71b82c0c966eb7ebef30c80\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e136b6ecf71b82c0c966eb7ebef30c80\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\ef1d8c86b08f81aad0369fb3f72c00f1\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\ef1d8c86b08f81aad0369fb3f72c00f1\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\bd44cc74717fe47b98bb75c35c1ea6fe\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\bd44cc74717fe47b98bb75c35c1ea6fe\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\07747f2a92010905ccf5a19553431dd6\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\07747f2a92010905ccf5a19553431dd6\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\097e2cfec1f3470bed257f438550fe24\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\097e2cfec1f3470bed257f438550fe24\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\50a7365e220bacbca98a17daf060d252\jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\50a7365e220bacbca98a17daf060d252\jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\b6717674800eed6c3a08c293ce0791d2\lifecycle-viewmodel-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\b6717674800eed6c3a08c293ce0791d2\lifecycle-viewmodel-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\81ea3fe12e12ba106c9a4ce901e10abb\jetified-savedstate-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\81ea3fe12e12ba106c9a4ce901e10abb\jetified-savedstate-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\98563681e58d3c34f4b31b8baef283ec\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\98563681e58d3c34f4b31b8baef283ec\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\829d21909d50c091150d8e9ad4c8b5da\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\829d21909d50c091150d8e9ad4c8b5da\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\5427561dd6cf390b76a54b6b12697c64\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\5427561dd6cf390b76a54b6b12697c64\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\234e1c7e174fe3482504584969ff910c\lifecycle-runtime-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\234e1c7e174fe3482504584969ff910c\lifecycle-runtime-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e22d88d5b51cd2697931c473301ce0b7\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\e22d88d5b51cd2697931c473301ce0b7\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\ec11c655f4c6a4d1a8bcba40a09dcfd8\lifecycle-livedata-core-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha04] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\ec11c655f4c6a4d1a8bcba40a09dcfd8\lifecycle-livedata-core-2.3.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\5c340e449d2c5623178e4ca61caab05d\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\5c340e449d2c5623178e4ca61caab05d\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\0bd2c356fb75e12f06b4127e75652d05\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\0bd2c356fb75e12f06b4127e75652d05\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+		ADDED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+		MERGED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project625\using\TapTap-0.5_alpha\app\src\main\AndroidManifest.xml
+receiver#com.joaomgcd.taskerpluginlibrary.action.BroadcastReceiverAction
+ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:13:9-20:20
+	android:exported
+		ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:15:13-36
+	tools:ignore
+		ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:16:13-44
+	android:name
+		ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:14:13-91
+intent-filter#action:name:com.twofortyfouram.locale.intent.action.FIRE_SETTING
+ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:17:13-19:29
+action#com.twofortyfouram.locale.intent.action.FIRE_SETTING
+ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:18:17-95
+	android:name
+		ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:18:25-92
+service#com.joaomgcd.taskerpluginlibrary.action.IntentServiceAction
+ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:22:9-29:19
+	android:exported
+		ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:24:13-36
+	tools:ignore
+		ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:25:13-43
+	android:name
+		ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:23:13-87
+service#com.joaomgcd.taskerpluginlibrary.condition.IntentServiceCondition
+ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:30:9-37:19
+	android:exported
+		ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:32:13-36
+	tools:ignore
+		ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:33:13-43
+	android:name
+		ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:31:13-93
+intent-filter#action:name:com.twofortyfouram.locale.intent.action.QUERY_CONDITION
+ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:34:13-36:29
+action#com.twofortyfouram.locale.intent.action.QUERY_CONDITION
+ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:35:17-98
+	android:name
+		ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:35:25-95
+receiver#com.joaomgcd.taskerpluginlibrary.condition.BroadcastReceiverCondition
+ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:39:9-46:20
+	android:exported
+		ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:41:13-36
+	tools:ignore
+		ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from [com.joaomgcd:taskerpluginlibrary:0.3.2] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d824fb48a961f2cee2a849c65e40fff4\jetified-taskerpluginlibrary-0.3.2\AndroidManifest.xml:40:13-97
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\1634ded704e01377ddbf3cc5b0a716e4\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\1634ded704e01377ddbf3cc5b0a716e4\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\1634ded704e01377ddbf3cc5b0a716e4\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\1634ded704e01377ddbf3cc5b0a716e4\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d6d2b0f2d890adb79b33e2053e79de3f\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d6d2b0f2d890adb79b33e2053e79de3f\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d6d2b0f2d890adb79b33e2053e79de3f\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\d6d2b0f2d890adb79b33e2053e79de3f\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\627b39416b725a583dc5205480468f09\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\627b39416b725a583dc5205480468f09\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\kidominox\.gradle\wrapper\dists\gradle-6.1.1-all\caches\transforms-2\files-2.1\627b39416b725a583dc5205480468f09\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
